@@ -7,6 +7,7 @@
 (al negar no se comienza el juego y se puede volver a la pantalla de inicio de juego o salir no avanzar, al decir si se comienza el juego y se inicia en el primer planeta) 
 
 **Primer planeta el planeta Lenguaje. ** 
+
  Core: Gracias por acompañarme en esta aventura, te explico. Nuestra misión es recolectar los 5 objetos especiales cada uno se encuentra resguardado por un guardián de planeta. Y para llegar a el debemos romper los sellos que los protegen ¿de que manera? Pues respondiendo de forma correcta una serie de preguntas que nos harán debemos tener mucho cuidado pues si fallamos mas de 3 veces seremos descubiertos y exiliados del planeta.  yo confió plenamente en tus habilidades, pero si te sientes en demasiados problemas puedo ayudarte recuerda que somos compañeros, ante todo. 
 
 Cada planeta nos dará por su nombre la pista de que tipo de trivia o acertijo podremos encontrar en el, así que adelante y comencemos con el planeta del lenguaje… 
@@ -17,6 +18,7 @@ Cada planeta nos dará por su nombre la pista de que tipo de trivia o acertijo p
 ** Comienzan preguntas con el jefe final **
 
 **Pasan al siguiente planeta Lógico**
+
 *Arita: Veo que lo has logrado Core, encontrar al terrícola no era una tarea fácil. Y mucho menos al indicado, tu fascinación por la exploración, por el espacio; te ha traído muchos beneficios… y una gran responsabilidad. Ser parte de este universo hasta el final de sus tiempos es tu destino y sobre todo tu elección. 
 
 **Nombre del jugador** confía en el gran corazón e intuición de Core y pide su ayuda cuando mas la necesites y que te ayude a explorar el poder detrás de los objetos especiales.
@@ -24,28 +26,34 @@ Cada planeta nos dará por su nombre la pista de que tipo de trivia o acertijo p
 **Preguntas del planeta Lógico. **
   
 *Sora: haber roto los sellos no te asegura este objeto especial, aun queda una ultima prueba por superar. Lee dos veces antes de contestar o la respuesta incorrecta podrías seleccionar. 
+  
   **Preguntas jefe final lógica **
 
 **Pasan al siguiente planeta ciencia** 
+
 *Core: ¡wow! Mira ** nombre del jugador** este es mi planeta favorito, donde ser un explorador no es sinónimo de bandido, dudar es siempre la primera opción y equivocarse es solo el motivo para volverlo a intentar. Sabes, un día mi sueño fue pertenecer a este lugar. Ahora lo se, mi destino era algo mas grande. ¡vamos por esas preguntas! 
+  
   **Preguntas sello planeta ciencia** 
 
 *Dernas: el llegar hasta esta etapa merece un reconocimiento, no cualquiera rompe nuestros sellos. Y para este momento ya han observado, analizado y experimentado así que, es momento de la conclusión. Una prueba final que les permitirá obtener el resultado: el objeto especial que tanto buscan.
+  
   **preguntas jefe final ciencia **
 
 **pasan al siguiente planeta Cultura General**
+
    #Core: el ser un explorador me ha enseñado tantas cosas, he aprendido lo importante que es la función de todos en el universo, ningún conocimiento vale menos que el de otros, y que todos tenemos algo que entregar. Yo vengo de un planeta llamado foody.  Hablamos de los mejores cocineros del universo, la mayor diversidad en alimentos que este pueda entregar., pero yo jamás lo entendí o jamás pertenecí ahí. No lo se… Desde muy joven me apasione por la exploración espacial es lo único que conocía y ahora estoy contigo en esta misión. La mas importante de mi vida, conozco el espacio, mi misión y a mi amigo que acompaña. 
 
-   ** preguntas sello cultura general** 
+** preguntas sello cultura general** 
  
  *Soldish: impresionante, lograron romper los sellos. Pero eso no basta para obtener mi objeto especial, así que, llego la hora de la prueba final, ¿que tanto saben acerca de todo lo que hay que saber? 
 
-    **Preguntas jefe cultura general**
+   **Preguntas jefe cultura general**
 
 **Pasan siguiente y ultimo planeta lógico-matemático**
  
 *Core: desde que Minus el guardián del objeto de este planeta se ha plantado aquí, ya nada es igual. Sus habitantes no son felices. Su necesidad de abarcar el poder y conocimiento de los demás dejo desestabilizada esta parte del universo. El alguna vez junto los objetos especiales también, pero no pudo usarlos de manera correcta y creo un desequilibro. Pero tu ** nombre del jugador** tienes todo lo que se necesita, y podrás recobrar el equilibrio, se debe sentir muy genial ser tan fundamental ¿no? 
 ¡vamos! Ya solo falta un poco mas amigo. A por esas preguntas, 
+ 
  ++ preguntas planeta lógico – matemático++ 
 
 *Minus: ¡por fin! el ultimo de los foody´s y el terrícola que tuvo que conseguir, es una lastima que estuvieras en exploración justo en el momento que decidí absorber y colisionar todo tu planeta, no estaríamos en esta situación… el hecho que ustedes dos pudieran superar los demás planetas, obtener los objetos y romper mis sellos no les asegura nada, no será para nada sencillo. Prepárense para la prueba final… 
