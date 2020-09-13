@@ -1,4 +1,5 @@
-# dialogo-videojuego- … si estas leyendo este mensaje debes ser el terrícola que he buscado durante tanto tiempo. Dime, ¿Cuál es tu nombre? **Nombre** ¡perfecto! Mucho gusto, mi nombre es Core y nadie conoce este lado del universo mejor que yo, o al menos eso es lo que dicen jeje. ohh amigo, te ves algo perdido… jum ¿que te parece si te unes a mi mas reciente y emocionante misión? Te explicare mas en el camino, ¡vamos! 
+# dialogo-videojuego- 
+… si estas leyendo este mensaje debes ser el terrícola que he buscado durante tanto tiempo. Dime, ¿Cuál es tu nombre? **Nombre** ¡perfecto! Mucho gusto, mi nombre es Core y nadie conoce este lado del universo mejor que yo, o al menos eso es lo que dicen jeje. ohh amigo, te ves algo perdido… jum ¿que te parece si te unes a mi mas reciente y emocionante misión? Te explicare mas en el camino, ¡vamos! 
 
 **Unirte a Core **
 **Si / No 
